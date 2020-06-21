@@ -1,7 +1,7 @@
 # Remote Sensing Image Super-Resolution via Mixed High-Order Attention Network (MHAN)
-The pytorch code for paper Remote Sensing Image Super-Resolution via Mixed High-Order Attention Network
-The Test30 dataset used in the paper can be found in this repository， referring to the folder './Test30'
-Some other general image and remote sensing SR based models also provided in folder './models'
+The pytorch code for paper Remote Sensing Image Super-Resolution via Mixed High-Order Attention Network.
+The Test30 dataset used in the paper can be found in this repository，referring to the folder './Test30'.
+Some other general image and remote sensing SR based models also provided in folder './models'.
 
 # Requirements
 
