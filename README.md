@@ -11,6 +11,14 @@ Some other general image and remote sensing SR based models also provided in fol
 - NVIDIA-SMI 430.64       
 - Driver Version: 430.64       
 - CUDA Version: 10.1  
+# Dataset
+We use [AID](https://arxiv.org/abs/1608.05167v1) as the training dataset, which is a
+collection of remote sensing images depicting 30 land-use
+classes, including airport, farmland, beach, desert, etc.
+
+We conducted experiments on two satellite image datasets, 
+namely, [WHURS19](http://www.escience.cn/people/yangwen/WHU-RS19.html) 
+and [RSSCN7](https://hyper.ai/datasets/5440)
 
 # Usage
 Use the following command to train the model. 
