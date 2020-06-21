@@ -18,7 +18,7 @@ classes, including airport, farmland, beach, desert, etc.
 
 We conducted experiments on two satellite image datasets, 
 namely, [WHURS19](http://www.escience.cn/people/yangwen/WHU-RS19.html) 
-and [RSSCN7](https://hyper.ai/datasets/5440)
+and [RSSCN7](https://hyper.ai/datasets/5440).
 
 # Usage
 Use the following command to train the model. 
